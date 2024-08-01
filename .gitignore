@@ -1,3 +1,11 @@
 *.md
 
+get_csv.py
+
+*.csv
+
+log/
+
+template.json
+
 !README.md
