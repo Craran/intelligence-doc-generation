@@ -2,7 +2,7 @@
 
 get_csv.py
 
-yf_data_develop.csv
+*.csv
 
 log/
 
